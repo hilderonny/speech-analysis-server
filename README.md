@@ -17,6 +17,8 @@ Or the models must be downloaded manually.
 ```sh
 pip install git+https://github.com/hilderonny/argos-translate
 pip install faster-whisper
+pip install flask
+pip install requests
 ```
 
 ## Running the server
